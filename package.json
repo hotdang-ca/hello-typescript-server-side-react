@@ -1,0 +1,23 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "Server Side Rendering Example using TypeScript-flavoured React",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts:build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "James Perih <james@hotdang.ca>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/express": "^4.11.1",
+    "@types/react": "^16.1.0",
+    "@types/react-dom": "^16.0.4",
+    "typescript": "^2.8.1"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
