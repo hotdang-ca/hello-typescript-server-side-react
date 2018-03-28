@@ -1,7 +1,5 @@
 # Server-Side Rendering with TypeScript-flavoured React JSX
 
-
-
 ## What is this?
 
 See title. More specifically:
@@ -15,4 +13,3 @@ Clone. `npm install; npm run ts:build; npm run start`. Visit page.
 ## License
 
 Unlicensed for any use at this moment.
-
